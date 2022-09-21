@@ -1,0 +1,26 @@
+
+#topbar{
+    position: sticky;
+    top: 0px;
+    overflow: hidden;
+
+}
+#LogLogo{
+    text-align: center;
+    
+}
+.top{
+    width: 50%;
+}
+
+#login{
+    text-align: center;
+    display: flex;
+    position: absolute;
+    top: 30%;
+}
+.sticky{
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
